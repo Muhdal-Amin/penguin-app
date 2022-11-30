@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
--Live Site URL: [Penguin App]( https://muhdal-amin.github.io/penguin-app/)
+- Live Site URL: [Penguin App]( https://muhdal-amin.github.io/penguin-app/)
 
 ## My process
 
